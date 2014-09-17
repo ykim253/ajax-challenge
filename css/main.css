@@ -1,0 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500);
+
+body {
+    font-family: 'Ubuntu', 'Helvetica Neue', 'Helvetica', sans-serif;
+    font-weight: 400;
+}
+
+.product-picture {
+    float: left;
+    height: 130px;
+    margin-right: 10px;
+}
+
