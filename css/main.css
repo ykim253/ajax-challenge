@@ -3,11 +3,15 @@
 body {
     font-family: 'Ubuntu', 'Helvetica Neue', 'Helvetica', sans-serif;
     font-weight: 400;
+    background-color: #eee;
 }
 
 .product-picture {
     float: left;
-    height: 130px;
+    height: 200px;
     margin-right: 10px;
+    margin-top: 15px;;
 }
-
+#commentForm {
+    margin-top: auto;
+}
